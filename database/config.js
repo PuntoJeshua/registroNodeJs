@@ -1,7 +1,7 @@
 var config ={
 	host : 'localhost',
 	user : 'root',
-	password :'debian2DAW',
+	password :'',
 	database : 'baseRegistroNodeJS'
 
 };
